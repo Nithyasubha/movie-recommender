@@ -1,0 +1,4 @@
+python-3.10.0
+git add .
+git commit -m "fixed deployment error"
+git push
